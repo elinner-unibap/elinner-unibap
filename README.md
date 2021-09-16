@@ -1,8 +1,13 @@
 Elisabeth Schold Linnér
+
 Computer Vision Engineer
+
 Phone +46 (0)72 450 15 20
+
 Mail: elisabeth.schold-linner@unibap.com
+
 Unibap AB (publ)
+
 www.unibap.com
 
 <!---
